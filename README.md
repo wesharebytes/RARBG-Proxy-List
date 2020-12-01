@@ -54,4 +54,4 @@ We have listed some of the best Rarbg proxy lists and Rarbg alternatives. You ca
 The Rarbg proxy is not legal. There are several countries like Saudi Arabia, UK, India, United Arab Emirates, Pakistan, Turkey and other countries where Rarbg proxy and torrents are prohibited.
 
 #### What is the best Rarbg proxy?
-According to our in-depth review, https://rarbg.unblockninja.com is the best and fastest Rarbg proxy to access the many types of torrents.
+According to our in-depth review, https://rarbg.torrentbay.to is the best and fastest Rarbg proxy to access the many types of torrents.
