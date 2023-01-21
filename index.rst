@@ -7,11 +7,15 @@ IF you cannot access the original sound or your ISP has forbidden it. So don't w
 Using proxy sites is considered a safe and fast option compared to the other methods.
 
 - https://rarbg.unblockninja.com
-- https://rarbg.torrentbay.to
+- https://rarbg.proxyninja.org
+- https://rarbg.proxyninja.net
+- https://rarbg.torrentsbay.org
 
 More unblocked torrent sites at: 
 
 - https://unblockninja.com
+- https://proxyninja.org
+- https://torrentsbay.org
 
 However, those who have had the unfortunate circumstance of searching for the perfect proxy sites will know that they are not easy to find. Luckily, we've made a list of the best RARBG proxy sites for you so that you can download the best RARBG torrents with no restrictions.
 
