@@ -50,31 +50,31 @@ To change the DNS settings, you need to enter two of them. If you want to use Go
 
 Determining the security of a proxy site involves taking several factors into account. While I cannot guarantee the absolute security of any particular proxy, here are some guidelines to help you evaluate whether a proxy site is trustworthy:
 
-     #### Source and reputation:
-         Check the proxy source. Is this recommended by reliable tech forums or communities? Avoid using proxies from unverified sources.
-         Look for user reviews. If other users have had positive experiences with the proxy, this is a good sign.
+#### Source and reputation:
+Check the proxy source. Is this recommended by reliable tech forums or communities? Avoid using proxies from unverified sources.
+Look for user reviews. If other users have had positive experiences with the proxy, this is a good sign.
 
-     #### Security Features:
-         Does the proxy site use HTTPS (secure browsing)? A secure connection ensures that your data remains encrypted while in transit.
-         Some proxy servers offer additional security features such as ad blocking, malware protection, or cookie management. This may improve security.
+#### Security Features:
+Does the proxy site use HTTPS (secure browsing)? A secure connection ensures that your data remains encrypted while in transit.
+Some proxy servers offer additional security features such as ad blocking, malware protection, or cookie management. This may improve security.
 
-     #### Privacy Policy and Data Processing:
-         Check if the proxy site has a privacy policy. It should state how they process user data.
-         Avoid proxy servers that log your online activity or share your data with third parties.
+#### Privacy Policy and Data Processing:
+Check if the proxy site has a privacy policy. It should state how they process user data.
+Avoid proxy servers that log your online activity or share your data with third parties.
 
-     #### Popups and redirects:
-         Be careful if the proxy server bombards you with pop-up ads or redirects. Excessive advertising may indicate an unsafe site.
+#### Popups and redirects:
+Be careful if the proxy server bombards you with pop-up ads or redirects. Excessive advertising may indicate an unsafe site.
 
-     #### Avoid suspicious domains:
-         If a proxy site's domain looks suspicious (such as random letters, numbers, or misspellings), it's best to avoid it.
+#### Avoid suspicious domains:
+If a proxy site's domain looks suspicious (such as random letters, numbers, or misspellings), it's best to avoid it.
  
-     #### Test the proxy server:
-         Use a proxy for simple searches or visit a confidential website. Observe his work and behavior.
-         If it redirects you to unrelated sites or displays intrusive ads, consider it unsafe.
+#### Test the proxy server:
+Use a proxy for simple searches or visit a confidential website. Observe his work and behavior.
+If it redirects you to unrelated sites or displays intrusive ads, consider it unsafe.
 
-     #### Instead, use a reliable VPN:
-         Consider using a virtual private network (VPN) instead of a proxy. VPNs provide better security, privacy and anonymity.
-         Reliable VPN services such as NordVPN, ExpressVPN or Surfshark are reliable options.
+#### Instead, use a reliable VPN:
+Consider using a virtual private network (VPN) instead of a proxy. VPNs provide better security, privacy and anonymity.
+Reliable VPN services such as NordVPN, ExpressVPN or Surfshark are reliable options.
 
 Please remember that using a proxy always carries some risk. If you access sensitive information or participate in activities where privacy is important, consider investing in a reliable VPN service for better protection. Be careful and prioritize your online safety!
 
