@@ -1,0 +1,29 @@
+{
+	"name": "rarbg-proxy/php-proxy",
+	"type": "library",
+	"keywords": ["php proxy", "proxy script", "php web proxy", "web proxy", "php proxy script"],
+	"license": "MIT",
+	"homepage": "https://rarbg.proxyninja.org",
+	"require": {
+		"ext-curl": "*"
+	},
+	"suggest": {
+		"predis/predis": "For caching purposes"
+	},
+	"autoload": {
+		"psr-4": {
+			"Proxy\\": "src/"
+		},
+		"files": [
+			"src/helpers.php"
+		]
+	},
+	"autoload-dev": {
+		"psr-4": {
+			"Proxy\\Tests\\": "tests/"
+		}
+	},
+	"require-dev": {
+		"phpunit/phpunit": "7"
+	}
+}
