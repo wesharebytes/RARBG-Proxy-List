@@ -1,5 +1,5 @@
 # RARBG Proxy List for 2024 - RARBG Mirror
-IF you cannot access the original sound or your ISP has forbidden it. So don't worry, you can still use the rarbg proxy. There are many ways to access the rarbg torrent site. Some working methods are listed below.
+If you can't access the original site or your ISP has blocked access to one of the domains, then don't worry, you can still use the RARBG proxy server. There are several ways to access the RARBG torrent site. Below are some working methods.
 
 Using proxy sites is considered a safe and fast option compared to the other methods.
 
