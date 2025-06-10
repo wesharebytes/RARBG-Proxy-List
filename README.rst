@@ -1,5 +1,5 @@
 ##################
-RARBG Proxy List for 2024 - Working RARBG Mirror
+RARBG Proxy List for 2025 - Working RARBG Mirror
 ##################
 
 If you can't access the original site or your ISP has blocked access to one of the domains, then don't worry, you can still use the RARBG proxy server. There are several ways to access the RARBG torrent site. Below are some working methods.
@@ -11,7 +11,7 @@ Using proxy sites is considered a safe and fast option compared to the other met
 - https://rarbg.proxyninja.net
 - https://rarbg.torrentsbay.org
 - https://rarbg.torrentbay.st
-- https:// rarbg.piratic.org
+- https://rarbg.piratic.org
 
 More unblocked torrent sites at: 
 
